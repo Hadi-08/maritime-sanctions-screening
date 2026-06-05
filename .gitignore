@@ -1,0 +1,5 @@
+# Ignore large SQLite database files
+*.db
+
+# Ignore the massive raw source data CSV
+consolidated_sanctions.csv
