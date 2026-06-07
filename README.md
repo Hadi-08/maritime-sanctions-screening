@@ -1,4 +1,4 @@
-# Maritime Sanctions Screening: Port of Los Angeles/Long Beach (SQL)
+# Maritime Sanctions Screening: Port of Los Angeles/Long Beach
 
 ## Overview
 An SQL-based sanctions screening project built as part of a self-directed study in data analytics and investigative methodology.
