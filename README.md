@@ -1,9 +1,7 @@
 # Maritime Sanctions Screening: Port of Los Angeles/Long Beach
 
 ## Overview
-An SQL-based sanctions screening project built as part of a self-directed study in data analytics and investigative methodology.
-
-Using SQLite, I screened 21 million AIS vessel movement records from the Port of Los Angeles/Long Beach (2023–2025) against the 2026 OpenSanctions Consolidated List, a consolidated dataset of over 70,000 sanctioned entities across OFAC, EU, UN, UK FCDO, and Australian frameworks.
+Screened 21 million AIS vessel movement records from the Port of Los Angeles/Long Beach (2023–2025) against the 2026 OpenSanctions Consolidated List, a dataset comprising over 70,000 sanctioned entities across OFAC, EU, UN, UK FCDO and Australian frameworks.
 
 ## Finding
 Zero confirmed matches. No vessel, registered owner, or affiliated entity in the traffic record appeared on active sanctions designations.
