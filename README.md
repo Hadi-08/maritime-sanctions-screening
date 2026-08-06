@@ -27,4 +27,4 @@ Zero confirmed matches. No vessel, registered owner, or affiliated entity in the
 - `/data` — 100-row schema samples for raw AIS, sanctions lookup, and output table
 
 ## Built
-June 2026
+May 2026
